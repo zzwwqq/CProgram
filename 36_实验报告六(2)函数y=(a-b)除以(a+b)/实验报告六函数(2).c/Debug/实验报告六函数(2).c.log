@@ -1,0 +1,16 @@
+﻿Build started 2016/12/6 12:23:53.
+     1>Project "C:\Users\Administrator\Desktop\vs2010程序\实验报告六函数(2).c\实验报告六函数(2).c\实验报告六函数(2).c.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\实验报告六函数(2).c.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\实验报告六函数(2).c.unsuccessfulbuild".
+       ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "实验报告六函数(2).c"
+         实验报告六函数(2).c
+     1>c:\users\administrator\desktop\vs2010程序\实验报告六函数(2).c\实验报告六函数(2).c\实验报告六函数(2).c(7): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\administrator\desktop\vs2010程序\实验报告六函数(2).c\实验报告六函数(2).c\实验报告六函数(2).c(8): warning C4013: 'print' undefined; assuming extern returning int
+     1>Done Building Project "C:\Users\Administrator\Desktop\vs2010程序\实验报告六函数(2).c\实验报告六函数(2).c\实验报告六函数(2).c.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.05

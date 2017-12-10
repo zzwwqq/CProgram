@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "建立一个abc文本文件，向其中写入“this is a test”字符串，然后显示该文件的内容", "建立一个abc文本文件，向其中写入“this is a test”字符串，然后显示该文件的内容\建立一个abc文本文件，向其中写入“this is a test”字符串，然后显示该文件的内容.vcxproj", "{9A084AEC-D735-4C0D-A2CE-A1DC012F2101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A084AEC-D735-4C0D-A2CE-A1DC012F2101}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A084AEC-D735-4C0D-A2CE-A1DC012F2101}.Debug|Win32.Build.0 = Debug|Win32
+		{9A084AEC-D735-4C0D-A2CE-A1DC012F2101}.Release|Win32.ActiveCfg = Release|Win32
+		{9A084AEC-D735-4C0D-A2CE-A1DC012F2101}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

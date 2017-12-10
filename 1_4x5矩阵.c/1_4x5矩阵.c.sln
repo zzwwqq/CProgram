@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_4x5矩阵.c", "1_4x5矩阵.c\1_4x5矩阵.c.vcxproj", "{7C7BC9BA-C5A0-4232-A309-C1C0CBC59825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7BC9BA-C5A0-4232-A309-C1C0CBC59825}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C7BC9BA-C5A0-4232-A309-C1C0CBC59825}.Debug|Win32.Build.0 = Debug|Win32
+		{7C7BC9BA-C5A0-4232-A309-C1C0CBC59825}.Release|Win32.ActiveCfg = Release|Win32
+		{7C7BC9BA-C5A0-4232-A309-C1C0CBC59825}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

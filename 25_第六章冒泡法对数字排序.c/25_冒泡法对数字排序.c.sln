@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25_冒泡法对数字排序.c", "25_冒泡法对数字排序.c\25_冒泡法对数字排序.c.vcxproj", "{9A122E5F-6676-46DE-8C7D-F8E3911895C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A122E5F-6676-46DE-8C7D-F8E3911895C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A122E5F-6676-46DE-8C7D-F8E3911895C3}.Debug|Win32.Build.0 = Debug|Win32
+		{9A122E5F-6676-46DE-8C7D-F8E3911895C3}.Release|Win32.ActiveCfg = Release|Win32
+		{9A122E5F-6676-46DE-8C7D-F8E3911895C3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "由键盘输入文件名，然后把从键盘输入的字符一次存入该文件中，以规定符号结束输入", "由键盘输入文件名，然后把从键盘输入的字符一次存入该文件中，以规定符号结束输入\由键盘输入文件名，然后把从键盘输入的字符一次存入该文件中，以规定符号结束输入.vcxproj", "{86017457-BFFC-4F26-AAE8-83D9A7612072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86017457-BFFC-4F26-AAE8-83D9A7612072}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86017457-BFFC-4F26-AAE8-83D9A7612072}.Debug|Win32.Build.0 = Debug|Win32
+		{86017457-BFFC-4F26-AAE8-83D9A7612072}.Release|Win32.ActiveCfg = Release|Win32
+		{86017457-BFFC-4F26-AAE8-83D9A7612072}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

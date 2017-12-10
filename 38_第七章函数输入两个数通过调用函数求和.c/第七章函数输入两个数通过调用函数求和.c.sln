@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第七章函数输入两个数通过调用函数求和.c", "第七章函数输入两个数通过调用函数求和.c\第七章函数输入两个数通过调用函数求和.c.vcxproj", "{3C74DCAA-4512-4776-891A-B58BB8BF8FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C74DCAA-4512-4776-891A-B58BB8BF8FD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C74DCAA-4512-4776-891A-B58BB8BF8FD8}.Debug|Win32.Build.0 = Debug|Win32
+		{3C74DCAA-4512-4776-891A-B58BB8BF8FD8}.Release|Win32.ActiveCfg = Release|Win32
+		{3C74DCAA-4512-4776-891A-B58BB8BF8FD8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

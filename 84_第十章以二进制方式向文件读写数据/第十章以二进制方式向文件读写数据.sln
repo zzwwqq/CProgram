@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第十章以二进制方式向文件读写数据", "第十章以二进制方式向文件读写数据\第十章以二进制方式向文件读写数据.vcxproj", "{309CBB42-ED4F-42F2-BB79-FF4A7C12236E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309CBB42-ED4F-42F2-BB79-FF4A7C12236E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{309CBB42-ED4F-42F2-BB79-FF4A7C12236E}.Debug|Win32.Build.0 = Debug|Win32
+		{309CBB42-ED4F-42F2-BB79-FF4A7C12236E}.Release|Win32.ActiveCfg = Release|Win32
+		{309CBB42-ED4F-42F2-BB79-FF4A7C12236E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "100匹马，100担货，大马一匹驮3担，大马一匹驮2担，大马一匹驮0.5担，求大 中 小马的个数", "100匹马，100担货，大马一匹驮3担，大马一匹驮2担，大马一匹驮0.5担，求大 中 小马的个数\100匹马，100担货，大马一匹驮3担，大马一匹驮2担，大马一匹驮0.5担，求大 中 小马的个数.vcxproj", "{0F9E1039-DAE8-4BF1-A59A-BD28D9D16B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9E1039-DAE8-4BF1-A59A-BD28D9D16B2A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F9E1039-DAE8-4BF1-A59A-BD28D9D16B2A}.Debug|Win32.Build.0 = Debug|Win32
+		{0F9E1039-DAE8-4BF1-A59A-BD28D9D16B2A}.Release|Win32.ActiveCfg = Release|Win32
+		{0F9E1039-DAE8-4BF1-A59A-BD28D9D16B2A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

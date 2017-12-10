@@ -1,0 +1,7 @@
+﻿  数字钟.c
+e:\cprogram\数字钟\数字钟\数字钟.c(221): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+e:\cprogram\数字钟\数字钟\数字钟.c(233): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+  数字钟.vcxproj -> E:\CProgram\数字钟\Debug\数字钟.exe
+  数字钟.vcxproj -> E:\CProgram\数字钟\Debug\数字钟.pdb (Full PDB)

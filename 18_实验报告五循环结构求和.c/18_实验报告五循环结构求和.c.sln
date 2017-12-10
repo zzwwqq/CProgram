@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_实验报告五循环结构求和.c", "18_实验报告五循环结构求和.c\18_实验报告五循环结构求和.c.vcxproj", "{0D1EDA96-BC00-4AFF-AEB7-843D767907BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1EDA96-BC00-4AFF-AEB7-843D767907BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D1EDA96-BC00-4AFF-AEB7-843D767907BF}.Debug|Win32.Build.0 = Debug|Win32
+		{0D1EDA96-BC00-4AFF-AEB7-843D767907BF}.Release|Win32.ActiveCfg = Release|Win32
+		{0D1EDA96-BC00-4AFF-AEB7-843D767907BF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

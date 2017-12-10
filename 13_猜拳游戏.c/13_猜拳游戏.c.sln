@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_猜拳游戏.c", "13_猜拳游戏.c\13_猜拳游戏.c.vcxproj", "{AE5A7779-AA5F-45C3-A612-75E4D4129B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE5A7779-AA5F-45C3-A612-75E4D4129B8C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE5A7779-AA5F-45C3-A612-75E4D4129B8C}.Debug|Win32.Build.0 = Debug|Win32
+		{AE5A7779-AA5F-45C3-A612-75E4D4129B8C}.Release|Win32.ActiveCfg = Release|Win32
+		{AE5A7779-AA5F-45C3-A612-75E4D4129B8C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
